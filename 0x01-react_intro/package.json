@@ -1,0 +1,26 @@
+{
+  "name": "0x01-react_intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "react-scripts test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Favour2333/alx-react.git"
+  },
+  "author": "Kingsley favour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Favour2333/alx-react/issues"
+  },
+  "homepage": "https://github.com/Favour2333/alx-react#readme",
+  "dependencies": {
+    "react": "^16.14.0"
+  },
+  "devDependencies": {
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.7"
+  },
+  "description": ""
+}
